@@ -1,0 +1,132 @@
+\contentsline {chapter}{DECLARATION}{i}{chapter*.1}
+\contentsline {chapter}{ACKNOWLEDGMENT}{ii}{chapter*.2}
+\contentsline {paragraph}{}{ii}{section*.3}
+\contentsline {chapter}{ABSTRACT}{iii}{chapter*.4}
+\contentsline {chapter}{TABLE OF CONTENTS}{vi}{chapter*.5}
+\contentsline {chapter}{LIST OF FIGURES}{vii}{chapter*.6}
+\contentsline {chapter}{LIST OF TABLES}{viii}{chapter*.7}
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{x}{chapter*.8}
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}INTRODUCTION}{1}{section.1.1}
+\contentsline {paragraph}{}{1}{section*.9}
+\contentsline {paragraph}{}{1}{section*.10}
+\contentsline {paragraph}{Why is technology important in businesses?}{2}{section*.11}
+\contentsline {paragraph}{}{2}{section*.12}
+\contentsline {paragraph}{}{2}{section*.13}
+\contentsline {paragraph}{}{2}{section*.14}
+\contentsline {paragraph}{}{3}{section*.15}
+\contentsline {paragraph}{}{3}{section*.16}
+\contentsline {paragraph}{}{3}{section*.17}
+\contentsline {subsection}{\numberline {1.1.1}Wired Equivalent Privacy (WEP)}{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Wi-Fi Protected Access (WPA)}{4}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Wi-Fi Protected Access Version2 (WPA2)}{4}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Wi-Fi Protected Access Version3 (WPA3)}{4}{subsection.1.1.4}
+\contentsline {paragraph}{}{4}{section*.18}
+\contentsline {paragraph}{}{5}{section*.19}
+\contentsline {paragraph}{}{5}{section*.20}
+\contentsline {subsection}{\numberline {1.1.5}Internet of Things (IoT)}{5}{subsection.1.1.5}
+\contentsline {paragraph}{}{5}{section*.21}
+\contentsline {paragraph}{}{6}{section*.22}
+\contentsline {subsection}{\numberline {1.1.6}Bring Your Own Device (BYOD)}{6}{subsection.1.1.6}
+\contentsline {paragraph}{}{6}{section*.23}
+\contentsline {section}{\numberline {1.2}PROBLEM}{6}{section.1.2}
+\contentsline {paragraph}{}{6}{section*.24}
+\contentsline {paragraph}{}{6}{section*.25}
+\contentsline {section}{\numberline {1.3}MOTIVATION}{7}{section.1.3}
+\contentsline {section}{\numberline {1.4}PROPOSED SYSTEM}{7}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}AIM}{7}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}OBJECTIVES}{7}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}SCOPE}{8}{section.1.5}
+\contentsline {paragraph}{}{8}{section*.26}
+\contentsline {paragraph}{}{8}{section*.27}
+\contentsline {section}{\numberline {1.6}LIMITATIONS OF THE RESEARCH PROJECT}{8}{section.1.6}
+\contentsline {section}{\numberline {1.7}CONCLUSION OF THE RESEARCH PROJECT}{8}{section.1.7}
+\contentsline {section}{\numberline {1.8}HOW THIS REPORT IS ORGANIZED}{9}{section.1.8}
+\contentsline {subsection}{\numberline {1.8.1}CHAPTER 2 LITERATURE SURVEY AND REQUIREMENT ANALYSIS}{9}{subsection.1.8.1}
+\contentsline {subsection}{\numberline {1.8.2}CHAPTER 3 METHODOLOGY}{9}{subsection.1.8.2}
+\contentsline {subsection}{\numberline {1.8.3}CHAPTER 4 DESIGN}{9}{subsection.1.8.3}
+\contentsline {subsection}{\numberline {1.8.4}CHAPTER 5 IMPLEMENTATION}{9}{subsection.1.8.4}
+\contentsline {subsection}{\numberline {1.8.5}CHAPTER 6 EVALUATION}{9}{subsection.1.8.5}
+\contentsline {subsection}{\numberline {1.8.6}CHAPTER 7 CONCLUSION}{9}{subsection.1.8.6}
+\contentsline {chapter}{\numberline {2}LITERATURE SURVEY AND REQUIREMENT ANALYSIS}{10}{chapter.2}
+\contentsline {section}{\numberline {2.1}INTRODUCTION}{10}{section.2.1}
+\contentsline {section}{\numberline {2.2}REQUIREMENT GATHERING TECHNIQUES}{10}{section.2.2}
+\contentsline {paragraph}{}{10}{section*.28}
+\contentsline {section}{\numberline {2.3}SIMILAR SYSTEMS}{10}{section.2.3}
+\contentsline {paragraph}{}{10}{section*.29}
+\contentsline {subsection}{\numberline {2.3.1}PHILIPS INDOOR POSITIONNING SYSTEM}{11}{subsection.2.3.1}
+\contentsline {paragraph}{}{11}{section*.30}
+\contentsline {paragraph}{}{12}{section*.31}
+\contentsline {subsection}{\numberline {2.3.2}INDOO.RS - INDOOR POSITIONING SYSTEM}{12}{subsection.2.3.2}
+\contentsline {paragraph}{}{12}{section*.32}
+\contentsline {section}{\numberline {2.4}FUNCTIONAL AND NON-FUNCTIONAL REQUIREMENTS}{12}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}FUNCTIONAL REQUIREMENTS}{12}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}NON-FUNCTIONAL REQUIREMENTS}{13}{subsection.2.4.2}
+\contentsline {chapter}{\numberline {3}METHODOLOGY}{14}{chapter.3}
+\contentsline {section}{\numberline {3.1}INTRODUCTION}{14}{section.3.1}
+\contentsline {paragraph}{}{14}{section*.33}
+\contentsline {section}{\numberline {3.2}BACKGROUND}{14}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}INVERSE SQUARE LAW}{14}{subsection.3.2.1}
+\contentsline {paragraph}{}{14}{section*.34}
+\contentsline {paragraph}{}{14}{section*.35}
+\contentsline {subsection}{\numberline {3.2.2}FREE SPACE PATH LOSS}{15}{subsection.3.2.2}
+\contentsline {paragraph}{}{15}{section*.36}
+\contentsline {subsection}{\numberline {3.2.3}LOCATION FINGERPRINT TECHNIQUE}{16}{subsection.3.2.3}
+\contentsline {paragraph}{}{16}{section*.37}
+\contentsline {paragraph}{}{16}{section*.38}
+\contentsline {paragraph}{}{16}{section*.39}
+\contentsline {subsection}{\numberline {3.2.4}TRILATERATION TECHNIQUE}{17}{subsection.3.2.4}
+\contentsline {paragraph}{}{18}{section*.40}
+\contentsline {paragraph}{}{18}{section*.41}
+\contentsline {subsection}{\numberline {3.2.5}HYBRID TECHNIQUE}{19}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}RADIUS PROTOCOL}{19}{subsection.3.2.6}
+\contentsline {paragraph}{}{19}{section*.42}
+\contentsline {paragraph}{}{20}{section*.43}
+\contentsline {paragraph}{}{20}{section*.44}
+\contentsline {subsection}{\numberline {3.2.7}ANDROID WifiEnterpriseConfig API}{21}{subsection.3.2.7}
+\contentsline {section}{\numberline {3.3}STEPS FOLLOWED}{21}{section.3.3}
+\contentsline {paragraph}{}{21}{section*.45}
+\contentsline {chapter}{\numberline {4}DESIGN}{23}{chapter.4}
+\contentsline {section}{\numberline {4.1}INTRODUCTION}{23}{section.4.1}
+\contentsline {section}{\numberline {4.2}DESIGN DIAGRAMS}{23}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}TOP LEVEL NETWORK DIAGRAM}{23}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}DATABASE DIAGRAM}{24}{subsection.4.2.2}
+\contentsline {paragraph}{}{24}{section*.46}
+\contentsline {paragraph}{}{24}{section*.47}
+\contentsline {paragraph}{}{25}{section*.48}
+\contentsline {paragraph}{}{25}{section*.49}
+\contentsline {paragraph}{}{26}{section*.50}
+\contentsline {subsection}{\numberline {4.2.3}ACTIVITY DIAGRAM}{26}{subsection.4.2.3}
+\contentsline {paragraph}{}{26}{section*.51}
+\contentsline {subsection}{\numberline {4.2.4}SYSTEM DESIGN}{27}{subsection.4.2.4}
+\contentsline {chapter}{\numberline {5}IMPLEMENTATION}{28}{chapter.5}
+\contentsline {section}{\numberline {5.1}INTRODUCTION}{28}{section.5.1}
+\contentsline {section}{\numberline {5.2}SETUP FreeRADIUS SERVER}{28}{section.5.2}
+\contentsline {paragraph}{}{28}{section*.52}
+\contentsline {subparagraph}{NOTE : }{29}{section*.53}
+\contentsline {paragraph}{}{29}{section*.54}
+\contentsline {section}{\numberline {5.3}SETUP WI-FI ROUTER}{31}{section.5.3}
+\contentsline {section}{\numberline {5.4}DEVELOP ANDROID MOBILE APPLICATION}{31}{section.5.4}
+\contentsline {section}{\numberline {5.5}DEVELOP BACK END ADMINISTRATION PANEL}{34}{section.5.5}
+\contentsline {section}{\numberline {5.6}FREERADIUS STATIC TESTING TOOL}{35}{section.5.6}
+\contentsline {chapter}{\numberline {6}EVALUATION}{36}{chapter.6}
+\contentsline {section}{\numberline {6.1}INTRODUCTION}{36}{section.6.1}
+\contentsline {section}{\numberline {6.2}ANALYSIS OF DATA}{36}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}ACCESS POINT 01 DATA ANALYSIS}{37}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}ACCESS POINT 02 DATA ANALYSIS}{38}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}ACCESS POINT 03 DATA ANALYSIS}{39}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}ALL ACCESS POINT DATA ANALYSIS}{40}{subsection.6.2.4}
+\contentsline {subsection}{\numberline {6.2.5}LIVE USER ACCESS DATA ANALYSIS}{41}{subsection.6.2.5}
+\contentsline {paragraph}{}{41}{section*.55}
+\contentsline {subsubsection}{\numberline {6.2.5.1}OVERALL TEST RESULT}{41}{subsubsection.6.2.5.1}
+\contentsline {section}{\numberline {6.3}FACTORS EFFECTING TO WIRELESS NETWORK SIGNAL}{41}{section.6.3}
+\contentsline {section}{\numberline {6.4}FURTHER IMPROVEMENTS}{42}{section.6.4}
+\contentsline {chapter}{\numberline {7}CONCLUSION}{44}{chapter.7}
+\contentsline {section}{\numberline {7.1}OVERVIEW}{44}{section.7.1}
+\contentsline {paragraph}{}{44}{section*.56}
+\contentsline {paragraph}{}{44}{section*.57}
+\contentsline {section}{\numberline {7.2}FUTURE IMPROVEMENTS}{45}{section.7.2}
+\contentsline {section}{REFERENCES}{45}{section.7.2}
+\contentsline {chapter}{\numberline {A}PHP SCRIPT FOR FREERADIUS SERVER}{48}{appendix.A}
+\contentsline {chapter}{\numberline {B}ANDROID APPLICATION TO CONNECT FREERADIUS SERVER}{50}{appendix.B}
+\contentsline {chapter}{\numberline {C}TEST RESULTS}{53}{appendix.C}

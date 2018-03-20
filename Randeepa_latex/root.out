@@ -1,0 +1,81 @@
+\BOOKMARK [0][-]{chapter*.1}{DECLARATION}{}% 1
+\BOOKMARK [0][-]{chapter*.2}{ACKNOWLEDGMENT}{}% 2
+\BOOKMARK [0][-]{chapter*.4}{ABSTRACT}{}% 3
+\BOOKMARK [0][-]{chapter*.5}{TABLE OF CONTENTS}{}% 4
+\BOOKMARK [0][-]{chapter*.6}{LIST OF FIGURES}{}% 5
+\BOOKMARK [0][-]{chapter*.7}{LIST OF TABLES}{}% 6
+\BOOKMARK [0][-]{chapter*.8}{LIST OF ABBREVIATIONS}{}% 7
+\BOOKMARK [0][-]{chapter.1}{INTRODUCTION}{}% 8
+\BOOKMARK [1][-]{section.1.1}{INTRODUCTION}{chapter.1}% 9
+\BOOKMARK [2][-]{subsection.1.1.1}{Wired Equivalent Privacy \(WEP\)}{section.1.1}% 10
+\BOOKMARK [2][-]{subsection.1.1.2}{Wi-Fi Protected Access \(WPA\)}{section.1.1}% 11
+\BOOKMARK [2][-]{subsection.1.1.3}{Wi-Fi Protected Access Version2 \(WPA2\)}{section.1.1}% 12
+\BOOKMARK [2][-]{subsection.1.1.4}{Wi-Fi Protected Access Version3 \(WPA3\)}{section.1.1}% 13
+\BOOKMARK [2][-]{subsection.1.1.5}{Internet of Things \(IoT\)}{section.1.1}% 14
+\BOOKMARK [2][-]{subsection.1.1.6}{Bring Your Own Device \(BYOD\)}{section.1.1}% 15
+\BOOKMARK [1][-]{section.1.2}{PROBLEM}{chapter.1}% 16
+\BOOKMARK [1][-]{section.1.3}{MOTIVATION}{chapter.1}% 17
+\BOOKMARK [1][-]{section.1.4}{PROPOSED SYSTEM}{chapter.1}% 18
+\BOOKMARK [2][-]{subsection.1.4.1}{AIM}{section.1.4}% 19
+\BOOKMARK [2][-]{subsection.1.4.2}{OBJECTIVES}{section.1.4}% 20
+\BOOKMARK [1][-]{section.1.5}{SCOPE}{chapter.1}% 21
+\BOOKMARK [1][-]{section.1.6}{LIMITATIONS OF THE RESEARCH PROJECT}{chapter.1}% 22
+\BOOKMARK [1][-]{section.1.7}{CONCLUSION OF THE RESEARCH PROJECT}{chapter.1}% 23
+\BOOKMARK [1][-]{section.1.8}{HOW THIS REPORT IS ORGANIZED}{chapter.1}% 24
+\BOOKMARK [2][-]{subsection.1.8.1}{CHAPTER 2 LITERATURE SURVEY AND REQUIREMENT ANALYSIS}{section.1.8}% 25
+\BOOKMARK [2][-]{subsection.1.8.2}{CHAPTER 3 METHODOLOGY}{section.1.8}% 26
+\BOOKMARK [2][-]{subsection.1.8.3}{CHAPTER 4 DESIGN}{section.1.8}% 27
+\BOOKMARK [2][-]{subsection.1.8.4}{CHAPTER 5 IMPLEMENTATION}{section.1.8}% 28
+\BOOKMARK [2][-]{subsection.1.8.5}{CHAPTER 6 EVALUATION}{section.1.8}% 29
+\BOOKMARK [2][-]{subsection.1.8.6}{CHAPTER 7 CONCLUSION}{section.1.8}% 30
+\BOOKMARK [0][-]{chapter.2}{LITERATURE SURVEY AND REQUIREMENT ANALYSIS}{}% 31
+\BOOKMARK [1][-]{section.2.1}{INTRODUCTION}{chapter.2}% 32
+\BOOKMARK [1][-]{section.2.2}{REQUIREMENT GATHERING TECHNIQUES}{chapter.2}% 33
+\BOOKMARK [1][-]{section.2.3}{SIMILAR SYSTEMS}{chapter.2}% 34
+\BOOKMARK [2][-]{subsection.2.3.1}{PHILIPS INDOOR POSITIONNING SYSTEM}{section.2.3}% 35
+\BOOKMARK [2][-]{subsection.2.3.2}{INDOO.RS - INDOOR POSITIONING SYSTEM}{section.2.3}% 36
+\BOOKMARK [1][-]{section.2.4}{FUNCTIONAL AND NON-FUNCTIONAL REQUIREMENTS}{chapter.2}% 37
+\BOOKMARK [2][-]{subsection.2.4.1}{FUNCTIONAL REQUIREMENTS}{section.2.4}% 38
+\BOOKMARK [2][-]{subsection.2.4.2}{NON-FUNCTIONAL REQUIREMENTS}{section.2.4}% 39
+\BOOKMARK [0][-]{chapter.3}{METHODOLOGY}{}% 40
+\BOOKMARK [1][-]{section.3.1}{INTRODUCTION}{chapter.3}% 41
+\BOOKMARK [1][-]{section.3.2}{BACKGROUND}{chapter.3}% 42
+\BOOKMARK [2][-]{subsection.3.2.1}{INVERSE SQUARE LAW}{section.3.2}% 43
+\BOOKMARK [2][-]{subsection.3.2.2}{FREE SPACE PATH LOSS}{section.3.2}% 44
+\BOOKMARK [2][-]{subsection.3.2.3}{LOCATION FINGERPRINT TECHNIQUE}{section.3.2}% 45
+\BOOKMARK [2][-]{subsection.3.2.4}{TRILATERATION TECHNIQUE}{section.3.2}% 46
+\BOOKMARK [2][-]{subsection.3.2.5}{HYBRID TECHNIQUE}{section.3.2}% 47
+\BOOKMARK [2][-]{subsection.3.2.6}{RADIUS PROTOCOL}{section.3.2}% 48
+\BOOKMARK [2][-]{subsection.3.2.7}{ANDROID WifiEnterpriseConfig API}{section.3.2}% 49
+\BOOKMARK [1][-]{section.3.3}{STEPS FOLLOWED}{chapter.3}% 50
+\BOOKMARK [0][-]{chapter.4}{DESIGN}{}% 51
+\BOOKMARK [1][-]{section.4.1}{INTRODUCTION}{chapter.4}% 52
+\BOOKMARK [1][-]{section.4.2}{DESIGN DIAGRAMS}{chapter.4}% 53
+\BOOKMARK [2][-]{subsection.4.2.1}{TOP LEVEL NETWORK DIAGRAM}{section.4.2}% 54
+\BOOKMARK [2][-]{subsection.4.2.2}{DATABASE DIAGRAM}{section.4.2}% 55
+\BOOKMARK [2][-]{subsection.4.2.3}{ACTIVITY DIAGRAM}{section.4.2}% 56
+\BOOKMARK [2][-]{subsection.4.2.4}{SYSTEM DESIGN}{section.4.2}% 57
+\BOOKMARK [0][-]{chapter.5}{IMPLEMENTATION}{}% 58
+\BOOKMARK [1][-]{section.5.1}{INTRODUCTION}{chapter.5}% 59
+\BOOKMARK [1][-]{section.5.2}{SETUP FreeRADIUS SERVER}{chapter.5}% 60
+\BOOKMARK [1][-]{section.5.3}{SETUP WI-FI ROUTER}{chapter.5}% 61
+\BOOKMARK [1][-]{section.5.4}{DEVELOP ANDROID MOBILE APPLICATION}{chapter.5}% 62
+\BOOKMARK [1][-]{section.5.5}{DEVELOP BACK END ADMINISTRATION PANEL}{chapter.5}% 63
+\BOOKMARK [1][-]{section.5.6}{FREERADIUS STATIC TESTING TOOL}{chapter.5}% 64
+\BOOKMARK [0][-]{chapter.6}{EVALUATION}{}% 65
+\BOOKMARK [1][-]{section.6.1}{INTRODUCTION}{chapter.6}% 66
+\BOOKMARK [1][-]{section.6.2}{ANALYSIS OF DATA}{chapter.6}% 67
+\BOOKMARK [2][-]{subsection.6.2.1}{ACCESS POINT 01 DATA ANALYSIS}{section.6.2}% 68
+\BOOKMARK [2][-]{subsection.6.2.2}{ACCESS POINT 02 DATA ANALYSIS}{section.6.2}% 69
+\BOOKMARK [2][-]{subsection.6.2.3}{ACCESS POINT 03 DATA ANALYSIS}{section.6.2}% 70
+\BOOKMARK [2][-]{subsection.6.2.4}{ALL ACCESS POINT DATA ANALYSIS}{section.6.2}% 71
+\BOOKMARK [2][-]{subsection.6.2.5}{LIVE USER ACCESS DATA ANALYSIS}{section.6.2}% 72
+\BOOKMARK [1][-]{section.6.3}{FACTORS EFFECTING TO WIRELESS NETWORK SIGNAL}{chapter.6}% 73
+\BOOKMARK [1][-]{section.6.4}{FURTHER IMPROVEMENTS}{chapter.6}% 74
+\BOOKMARK [0][-]{chapter.7}{CONCLUSION}{}% 75
+\BOOKMARK [1][-]{section.7.1}{OVERVIEW}{chapter.7}% 76
+\BOOKMARK [1][-]{section.7.2}{FUTURE IMPROVEMENTS}{chapter.7}% 77
+\BOOKMARK [1][-]{section.7.2}{REFERENCES}{chapter.7}% 78
+\BOOKMARK [0][-]{appendix.A}{PHP SCRIPT FOR FREERADIUS SERVER}{}% 79
+\BOOKMARK [0][-]{appendix.B}{ANDROID APPLICATION TO CONNECT FREERADIUS SERVER}{}% 80
+\BOOKMARK [0][-]{appendix.C}{TEST RESULTS}{}% 81
