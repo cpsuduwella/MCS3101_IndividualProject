@@ -1,0 +1,228 @@
+%% ---------------------------------------------------------------
+%% This is a template .tex file for M.Sc. theses or reports in
+%% Computer Science, Software Engineering or Language Technology
+%% in the School of Computer Science at Reykjavík University.
+%%
+%% It builds on the style RUCSMSc.sty and assumes the 
+%% presence of the RU logo in the appropriate format (eps/pdf)
+%% 
+%% Comments and questions can be sent to 
+%% the Graduate Study Council (cs-grad@ru.is)
+%%
+%% Author: Björn Þór Jónsson (bjorn@ru.is)
+%% ---------------------------------------------------------------
+
+%% METHOD:
+%% 1) Copy the following files to your working area: RUCSMSc.sty, RU-logo.EPS, RU-logo.PDF
+%% 2) Copy this file to your working area
+%% 3) Modify this file to fit your needs (please follow all comments below in the text)
+
+%% NOTES:
+%% - Assumes several styles are present, including fancyhdr, textpos, ms
+
+%% The following three lines must be as they are
+\documentclass[12pt,openright]{report}
+\usepackage{RUCSMSc}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc} % added by KK (ShareLaTeX team)
+
+%% Include other packages and your own definitions here
+
+%% If you choose to use apacite (recommended), uncommend this line
+%% and the two bibliography lines at the end of the template
+% \usepackage{apacite}
+
+\begin{document}
+
+%% Before final submission, the document may be tagged as a draft/proof
+%% These commands must be commented out in the final preparation
+%% Only use one of these at a time
+%\DRAFT{}
+%\PROOF{}
+
+%% This template works both for Computer Science and Software Engineering 
+%% One or the other must be used
+\CS{}
+%\SE{}
+%\LT{}
+
+%% This template works both for theses and project reports
+%% One or the other must be used
+%\THESIS{}
+\REPORT{}
+
+%% There are two versions: PAPER and ONLINE
+%% - The PAPER version produces additional signature pages
+%% - The ONLINE version skips the signature pages
+%% One of the following must be uncommented, the other commented out
+%% Note that final printing must be done in a particular format;
+%% information will be available on the web
+\PAPER{}
+%\ONLINE{}
+
+%% ---------------------------------------------------------------
+%% The following commands define the meta-data for the thesis
+
+%% Date in english and icelandic
+%% NOTE: THIS IS THE DATE OF THE SUPERVISOR'S SIGNATURE!!!!!!
+\MScwhen{Month Year}
+\MScdags{Mánuður Ár}
+
+%% Title in english and icelandic
+%% Note that title length is limited to what can fit in three lines in the inside page
+%% Also note that the capitalization of the text on the front page is a potential source of latex errors
+%% as it may not deal well with math, international letters, and other latex constructs
+\MSctitle{English Title}
+\MScheiti{Íslenskt heiti}
+
+%% If the title must be formatted specifically for the front page or internal pages
+%% (typically via line-breaks using the \newline command) then the following commands must be used 
+%% This one for the online front page:
+\MSctitleF{English \newline Title}
+%% This one for the paper-only front page (should not exceed 12 cm in two lines):
+%\MSctitleP{English\\Title}
+%% These two for the internal pages
+%\MSctitleI{English\\Title}
+%\MScheitiI{Íslenskt\\heiti}
+
+%% Author name (should be the same in any language:)
+\MScauthor{Student name}
+%% If the name must be formatted specifically for the signature page
+%% (typically via line-breaks) then the following command must be used 
+%\MScauthorS{Student\\Name}
+
+%% Give the numbers of members of the thesis committee
+%% Note that the style sheet currently handles a maximum of 5 members!
+%% If there are more members, consult with the graduate study council...
+\MSccmembers{3}
+
+%% List the entire committee.  Each member has a name (degree should be omitted, unless it is not PhD),
+%% plus a second argument with title and affiliation.
+%% Note that you are responsible for the consistency with \MSccmembers
+%% Also note that the MSccommitteeS and MSccommitteeC denote 
+%% supervisor and co-supervisor, respectively.
+%% Supervisor(s) must appear first
+\MSccommitteeS{Name}{Title}{Affiliation}
+%\MSccommitteeC{Name}{Title}{Affiliation}
+\MSccommittee{Name}{Title}{Affiliation}
+\MSccommittee{Name}{Title}{Affiliation}
+
+%% Abstract in english and icelandic
+%% It is considered good form to limit the abstract to a single page in each language
+\MScabstract{English abstract.}  
+\MScutdrattur{Íslenskur útdráttur.}
+
+%% The following two commands define the left and right headers
+%% Only use them if the defaults do not look good
+%% - This runs on the LEFT hand side of all internal pages
+%%   LEFT is authorname
+%\MScauthorhead{Type in a shorter version here}
+%% - This runs on the RIGHT hand side of pages
+%%   RIGHT is title, abbreviated if it is long
+%%   Use the main language of the report
+%\MSctitlehead{Shorter title, possibly with \dots}
+
+%% This command makes all the front materials!
+%% It must produce 6 pages for ONLINE, 8 pages for PAPER
+
+\makeMSc
+\pagestyle{plain}
+
+%% ---------------------------------------------------------------
+%% Next is a sequence of 6 elements, 3 optional, 3 mandatory
+%% There should be no intermediate blank pages!
+
+%% Dedication is optional, comment out if it is absent
+\MScdeds{Dedication.} 
+
+%% Acknowledgements are optional, comment out if they are absent
+%% Note that it is important to acknowledge any funding that helped in the work
+%% They should, however, be here rather than as a chapter at the end
+\MScacks{}
+
+Thanks\dots
+
+%% List of publications is optional.  Should contain a comprehensive list 
+%% of all publications in which material in the thesis has appeared,
+%% preferably with references to sections as appropriate.
+%% This is also a good place to state contribution of student and
+%% contribution of others to the work represented in the thesis.
+\MScpubs{}
+
+Part of the material in this thesis was published \dots
+
+%% TOC, list of figures and list of tables are required
+%% (in the unlikely event that one is empty, it should be commented out)
+\MSctableofcontents
+\MSclistoffigures
+\MSclistoftables
+
+%% The list of abbreviations is an example of a special list
+%% If used, the comment is provided by the author in regular text
+%\MSclistofabbrev{}
+
+%% Other lists may be added, such as lists of algorithms, theorems, etc.
+%% If you do, be sure to add them to the table of contents
+%% You can consult the definition of \MSclistofabbrev for consistency
+
+%% This command prepares for the actual text, e.g. by 
+%% redefining page numbers and footnote numbers
+\startMSc
+
+%% ---------------------------------------------------------------
+%% From this point on, it is standard Latex, except the very end.
+%% This is a "report"-based template, so the top-level heading is \chapter{}
+
+\input{01.introduction}
+\input{02.background}
+\input{03.methods}
+\MScpart{Part Name}
+\input{04.experiments}
+\input{05.conclusions}
+
+%% If you choose to use apacite (recommended), uncommend these lines
+%% and the package line at the top of the template, otherwise select your bibstyle
+%\bibliographystyle{apacite}
+%\bibliographystyle{plain}
+%\bibliography{main}
+
+%% ---------------------------------------------------------------
+%% Following are some relevant options
+
+%% If the dissertation has "parts", the following command may be used
+%% It may then, furthermore, be followed by introductory text
+%% Note that this should be very rare in MSc theses
+% \MScpart{Part Name}
+% Introductory text.
+
+%% If appendices are required, uncomment the following line
+%% and include the appendices in separate files
+%\appendix
+
+%% ---------------------------------------------------------------
+%% Produce one blank page (inside the cover) and 
+%% one page with the address of the department
+\end{document}
+
+%% ---------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
